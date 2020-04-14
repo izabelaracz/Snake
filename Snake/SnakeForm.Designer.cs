@@ -47,7 +47,7 @@
             this.ClientSize = new System.Drawing.Size(961, 598);
             this.Controls.Add(this.pictureBoxSnakeBoard);
             this.Name = "SnakeForm";
-            this.Text = "Form1";
+            this.Text = "Snake v0.9";
             this.KeyDown += new System.Windows.Forms.KeyEventHandler(this.SnakeForm_KeyDown);
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxSnakeBoard)).EndInit();
             this.ResumeLayout(false);
